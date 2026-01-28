@@ -109,8 +109,9 @@ VITE_FIREBASE_APP_ID=your_app_id</code></pre>
   <h3>Running the App</h3>
   <p>Start the development server:</p>
   <pre><code>npm run dev</code></pre>
+   <p>Open <a href="http://localhost:5173">http://localhost:5173</a> to view it in the browser.</p>
+</div>
  
-
 <hr />
 
 <div align="center">
